@@ -4,3 +4,4 @@ main:
 
   - title: "CV"
     url: /files/Kalla_CV.pdf
+    target: _blank
