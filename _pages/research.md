@@ -23,7 +23,7 @@ author_profile: true
 
 "Consuming Cross-Cutting Media Causes Learning and Moderates Attitudes: A Field Experiment with Fox News Viewers" (with David Broockman). *Journal of Politics*. [Paper](https://www.journals.uchicago.edu/doi/10.1086/730725) \| [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OF0P2S)
 
-"Targeted Abortion Frames Do Not Mobilize Political Action-Taking" (with Natalie Hernandez and Nicholas Ottone). *American Politics Research* (2025) 53(4): 353-368. [Paper](https://journals.sagepub.com/doi/10.1177/1532673X251324137) | [Replication Data](https://isps.yale.edu/research/data/d227)
+"Targeted Abortion Frames Do Not Mobilize Political Action-Taking" (with Natalie Hernandez and Nicholas Ottone). *American Politics Research* (2025) 53(4): 353-368. [Paper](https://journals.sagepub.com/doi/10.1177/1532673X251324137) \| [Replication Data](https://isps.yale.edu/research/data/d227)
 
 "Shared Demographic Characteristics Do Not Reliably Facilitate Persuasion" (with Nicholas Ottone, Amanda Weiss, Erik Santoro, and David Broockman). *British Journal of Political Science*. [Paper](https://doi.org/10.1017/S0007123424000279) \| [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FOVEPZ)
 
