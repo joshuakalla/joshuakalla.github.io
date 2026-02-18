@@ -23,7 +23,7 @@ author_profile: true
 
 "Consuming Cross-Cutting Media Causes Learning and Moderates Attitudes: A Field Experiment with Fox News Viewers" (with David Broockman). *Journal of Politics*. [Paper](https://www.journals.uchicago.edu/doi/10.1086/730725) \| [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OF0P2S)
 
-"Targeted Abortion Frames Do Not Mobilize Political Action-Taking" (with Natalie Hernandez and Nicholas Ottone). *American Politics Research* (2025) 53(4): 353-368. [Paper](https://journals.sagepub.com/doi/10.1177/1532673X251324137)
+"Targeted Abortion Frames Do Not Mobilize Political Action-Taking" (with Natalie Hernandez and Nicholas Ottone). *American Politics Research* (2025) 53(4): 353-368. [Paper](https://journals.sagepub.com/doi/10.1177/1532673X251324137) | [Replication Data](https://isps.yale.edu/research/data/d227)
 
 "Shared Demographic Characteristics Do Not Reliably Facilitate Persuasion" (with Nicholas Ottone, Amanda Weiss, Erik Santoro, and David Broockman). *British Journal of Political Science*. [Paper](https://doi.org/10.1017/S0007123424000279) \| [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FOVEPZ)
 
@@ -45,7 +45,7 @@ author_profile: true
 
 "The Negative Consequences of Informing Voters about Deepfakes: Evidence from Two Survey Experiments" (with John Ternovski and P.M. Aronow). *Journal of Online Trust and Safety*. [Paper](https://tsjournal.org/index.php/jots/article/view/28) \| [Replication Data](https://osf.io/rqfz5/?view_only=e2807b367a534262bb6c7aeb5727b999)
 
-"Can the Political Ambition of Young Women Be Increased? Evidence from U.S. High School Students" (with Ethan Porter). *Quarterly Journal of Political Science*. [Paper](https://www.nowpublishers.com/article/Details/QJPS-20106) \| [Replication Data](https://www.nowpublishers.com/article/details/supplementary-info/100.00020106_supp.zip)
+"Can the Political Ambition of Young Women Be Increased? Evidence from U.S. High School Students" (with Ethan Porter). *Quarterly Journal of Political Science*. [Paper](https://www.nowpublishers.com/article/Details/QJPS-20106) \| [Replication Data](https://isps.yale.edu/research/data/d186)
 
 "Broad Cross-National Public Support for Accelerated COVID-19 Vaccine Trial Designs" (with David Broockman, Alexander Guerrero, Mark Budolfson, Nir Eyal, Nicholas P. Jewel, Monica Magalhaes, and Jasjeet S. Sekhon). *Vaccine* (2021). [Paper](https://doi.org/10.1016/j.vaccine.2020.11.072) \| [Replication Data](https://osf.io/bgxe4/)
 
