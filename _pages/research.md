@@ -17,7 +17,7 @@ author_profile: true
 
 ## Journal Articles
 
-"Listen for a Change? A Longitudinal Field Experiment on Listening's Potential to Facilitate Persuasion" (with David Broockman, Erik Santoro, and Roni Porat). *Proceedings of the National Academy of Sciences*. [Paper](https://www.pnas.org/doi/10.1073/pnas.2421982122) \| [Replication Data](https://osf.io/7fydj/overview)
+"Listen for a Change? A Longitudinal Field Experiment on Listening's Potential to Enhance Persuasion" (with David Broockman, Erik Santoro, and Roni Porat). *Proceedings of the National Academy of Sciences*. [Paper](https://www.pnas.org/doi/10.1073/pnas.2421982122) \| [Replication Data](https://osf.io/7fydj/overview)
 
 "Selective Exposure and Echo Chambers in Partisan Television Consumption" (with David Broockman). *American Journal of Political Science*. [Paper](https://doi.org/10.1111/ajps.12886) \| [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/D1NDLH)
 
@@ -65,11 +65,11 @@ author_profile: true
 
 "Campaign Contributions Facilitate Access to Congressional Officials: A Randomized Field Experiment" (with David Broockman). *American Journal of Political Science* (2016). [Paper](http://onlinelibrary.wiley.com/doi/10.1111/ajps.12180/abstract) \| [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/28582)
 
-"Editorial Bias in Crowd-Sourced Information" (with Peter Aronow). *PLoS ONE* (2015). [Paper](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0136327) \| [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WT4I9N)
+"Editorial Bias in Crowd-Sourced Political Information" (with P.M. Aronow). *PLoS ONE* (2015). [Paper](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0136327) \| [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WT4I9N)
 
 ## Other Writing
 
-"Irregularities in LaCour (2014)" (with David Broockman and Peter Aronow). [Paper](https://osf.io/preprints/metaarxiv/qy2se/)
+"Irregularities in LaCour (2014)" (with David Broockman and P.M. Aronow). [Paper](https://osf.io/preprints/metaarxiv/qy2se/)
 
 "Increasing Response Rates and Representativeness of Online Panels Recruited by Mail" (with Alan Yan and David Broockman). [Paper](https://osf.io/t4msy) \| [Replication Data](https://osf.io/wj9s2/)
 
@@ -79,7 +79,7 @@ author_profile: true
 
 "We Discovered One of Social Science's Biggest Frauds. Here's What We Learned." (with David Broockman). *Vox* (2015). [Link](https://www.vox.com/2015/7/22/9009927/lacour-gay-homophobia-study)
 
-"Persuading Voters Is Hard. That Doesn't Mean Campaigns Should Give Up." (with David Broockman). *Washington Post* (2017). [Link](https://www.washingtonpost.com/news/monkey-cage/wp/2017/10/11/)
+"Persuading Voters Is Hard. That Doesn't Mean Campaigns Should Give Up." (with David Broockman). *Washington Post* (2017). [Link](https://www.washingtonpost.com/news/monkey-cage/wp/2017/10/11/our-research-shows-that-persuading-voters-is-hard-that-doesnt-mean-campaigns-should-give-up/)
 
 ## Youth Voter Turnout Experiments
 
