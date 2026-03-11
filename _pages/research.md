@@ -15,6 +15,8 @@ author_profile: true
 
 "A Framework to Assess the Persuasion Risks Large Language Model Chatbots Pose to Democratic Societies" (with Zhongren Chen, Quan Le, Shinpei Nakamura-Sakai, Jasjeet Sekhon, and Ruixiao Wang). [Paper](https://arxiv.org/abs/2505.00036)
 
+"Benchmarking Political Persuasion Risks Across Frontier Large Language Models" (with Zhongren Chen and Quan Le). [Paper](https://arxiv.org/abs/2603.09884)
+
 ## Journal Articles
 
 "Listen for a Change? A Longitudinal Field Experiment on Listening's Potential to Enhance Persuasion" (with David Broockman, Erik Santoro, and Roni Porat). *Proceedings of the National Academy of Sciences*. [Paper](https://www.pnas.org/doi/10.1073/pnas.2421982122) \| [Replication Data](https://osf.io/7fydj/overview)
