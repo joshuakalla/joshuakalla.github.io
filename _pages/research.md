@@ -17,6 +17,10 @@ author_profile: true
 
 "Benchmarking Political Persuasion Risks Across Frontier Large Language Models" (with Zhongren Chen and Quan Le). [Paper](https://arxiv.org/abs/2603.09884)
 
+"Should Moving To The Middle Win Candidates Votes? It Depends Where Voters Are" (with David Broockman). [Paper](https://osf.io/preprints/socarxiv/bvjtd)
+
+"The Cost Of Voting Overseas: Five Field Experiments On Expatriate Turnout" (with Zoya Ahmer). [Paper](https://osf.io/preprints/socarxiv/fy5g6)
+
 ## Journal Articles
 
 "Listen for a Change? A Longitudinal Field Experiment on Listening's Potential to Enhance Persuasion" (with David Broockman, Erik Santoro, and Roni Porat). *Proceedings of the National Academy of Sciences*. [Paper](https://www.pnas.org/doi/10.1073/pnas.2421982122) \| [Replication Data](https://osf.io/7fydj/overview)
