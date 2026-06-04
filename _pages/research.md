@@ -13,8 +13,6 @@ author_profile: true
 
 "Issues, Endorsements, And Vote Choice: A Panel Study Of Congressional Primary And General Elections" (with Jacqueline Colao, David Broockman, and Gregory Huber). [Paper](https://osf.io/preprints/osf/7xbza)
 
-"A Framework to Assess the Persuasion Risks Large Language Model Chatbots Pose to Democratic Societies" (with Zhongren Chen, Quan Le, Shinpei Nakamura-Sakai, Jasjeet Sekhon, and Ruixiao Wang). [Paper](https://arxiv.org/abs/2505.00036)
-
 "Benchmarking Political Persuasion Risks Across Frontier Large Language Models" (with Zhongren Chen and Quan Le). [Paper](https://arxiv.org/abs/2603.09884)
 
 "Should Moving To The Middle Win Candidates Votes? It Depends Where Voters Are" (with David Broockman). [Paper](https://osf.io/preprints/socarxiv/bvjtd)
@@ -22,6 +20,8 @@ author_profile: true
 "The Cost Of Voting Overseas: Five Field Experiments On Expatriate Turnout" (with Zoya Ahmer). [Paper](https://osf.io/preprints/socarxiv/fy5g6)
 
 ## Journal Articles
+
+"A Framework to Assess the Persuasion Risks Large Language Model Chatbots Pose to Democratic Societies" (with Zhongren Chen, Quan Le, Shinpei Nakamura-Sakai, Jasjeet Sekhon, and Ruixiao Wang). *Journal of Experimental Political Science* [Paper](https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/framework-to-assess-the-persuasion-risks-large-language-model-chatbots-pose-to-democratic-societies/AB0627A88FEBF023094B8A373F64ECA2) \| [Replication Data](https://doi.org/10.7910/DVN/TGKINF)
 
 "Listen for a Change? A Longitudinal Field Experiment on Listening's Potential to Enhance Persuasion" (with David Broockman, Erik Santoro, and Roni Porat). *Proceedings of the National Academy of Sciences*. [Paper](https://www.pnas.org/doi/10.1073/pnas.2421982122) \| [Replication Data](https://osf.io/7fydj/overview)
 
