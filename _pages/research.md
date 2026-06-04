@@ -21,13 +21,13 @@ author_profile: true
 
 ## Journal Articles
 
-"A Framework to Assess the Persuasion Risks Large Language Model Chatbots Pose to Democratic Societies" (with Zhongren Chen, Quan Le, Shinpei Nakamura-Sakai, Jasjeet Sekhon, and Ruixiao Wang). *Journal of Experimental Political Science* [Paper](https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/framework-to-assess-the-persuasion-risks-large-language-model-chatbots-pose-to-democratic-societies/AB0627A88FEBF023094B8A373F64ECA2) \| [Replication Data](https://doi.org/10.7910/DVN/TGKINF)
+"A Framework to Assess the Persuasion Risks Large Language Model Chatbots Pose to Democratic Societies" (with Zhongren Chen, Quan Le, Shinpei Nakamura-Sakai, Jasjeet Sekhon, and Ruixiao Wang). *Journal of Experimental Political Science* (Forthcoming) [Paper](https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/framework-to-assess-the-persuasion-risks-large-language-model-chatbots-pose-to-democratic-societies/AB0627A88FEBF023094B8A373F64ECA2) \| [Replication Data](https://doi.org/10.7910/DVN/TGKINF)
 
-"Listen for a Change? A Longitudinal Field Experiment on Listening's Potential to Enhance Persuasion" (with David Broockman, Erik Santoro, and Roni Porat). *Proceedings of the National Academy of Sciences*. [Paper](https://www.pnas.org/doi/10.1073/pnas.2421982122) \| [Replication Data](https://osf.io/7fydj/overview)
+"Listen for a Change? A Longitudinal Field Experiment on Listening's Potential to Enhance Persuasion" (with David Broockman, Erik Santoro, and Roni Porat). *Proceedings of the National Academy of Sciences*. (2025) 122(8): e2421982122 [Paper](https://www.pnas.org/doi/10.1073/pnas.2421982122) \| [Replication Data](https://osf.io/7fydj/overview)
 
-"Selective Exposure and Echo Chambers in Partisan Television Consumption" (with David Broockman). *American Journal of Political Science*. [Paper](https://doi.org/10.1111/ajps.12886) \| [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/D1NDLH)
+"Selective Exposure and Echo Chambers in Partisan Television Consumption" (with David Broockman). *American Journal of Political Science*. (2025) 69(3): 847-865. [Paper](https://doi.org/10.1111/ajps.12886) \| [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/D1NDLH)
 
-"Consuming Cross-Cutting Media Causes Learning and Moderates Attitudes: A Field Experiment with Fox News Viewers" (with David Broockman). *Journal of Politics*. [Paper](https://www.journals.uchicago.edu/doi/10.1086/730725) \| [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OF0P2S)
+"Consuming Cross-Cutting Media Causes Learning and Moderates Attitudes: A Field Experiment with Fox News Viewers" (with David Broockman). *Journal of Politics*. (2025) 87(1): 246-261. [Paper](https://www.journals.uchicago.edu/doi/10.1086/730725) \| [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OF0P2S)
 
 "Targeted Abortion Frames Do Not Mobilize Political Action-Taking" (with Natalie Hernandez and Nicholas Ottone). *American Politics Research* (2025) 53(4): 353-368. [Paper](https://journals.sagepub.com/doi/10.1177/1532673X251324137) \| [Replication Data](https://isps.yale.edu/research/data/d227)
 
