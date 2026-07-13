@@ -34,23 +34,12 @@ $navicon-height             : 4px;
 $sidebar-link-max-width     : 250px;
 $sidebar-screen-min-width   : 1024px;
 
-/* Dark theme for the site */
+/* Dark theme neutralized: the site now uses a single light theme and the theme
+   toggle has been removed. The committed assets/js/main.min.js (which GitHub
+   Pages does not rebuild) may still set data-theme="dark" from the OS
+   preference, so we intentionally leave these overrides empty — the page then
+   falls back to the :root (light) custom properties and always renders light. */
 html[data-theme="dark"] {
-    --global-base-color                 : #{$primary-color};
-    --global-bg-color                   : #{$background};
-    --global-footer-bg-color            : #{$background};
-    --global-border-color               : #{$light-gray};
-    --global-dark-border-color          : #{$background-light};
-    --global-code-background-color      : #fafafa;
-    --global-code-text-color            : #{$darker-gray};
-    --global-fig-caption-color          : #{$light-gray};
-    --global-link-color                 : #{$link};
-    --global-link-color-hover           : #{$link-dark};
-    --global-link-color-visited         : #{$link-light};
-    --global-masthead-link-color        : #{$text};
-    --global-masthead-link-color-hover  : #{$primary-color};
-    --global-text-color                 : #{$text};
-    --global-text-color-light           : #f3f3f3;
-    --global-thead-color                : #{$background-lighter};
+    color-scheme: light;
 }
 
