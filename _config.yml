@@ -42,7 +42,7 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               :
-og_image                 : "/images/Headshot.jpg"
+og_image                 : "Headshot.jpg"
 social:
   type                   :
   name                   :
