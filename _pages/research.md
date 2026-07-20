@@ -19,7 +19,7 @@ author_profile: true
 
 "How Sociotropic Aesthetic Judgments Drive Opposition to Dense Housing Development" (with David Broockman and Christopher Elmendorf). *American Political Science Review* (Forthcoming). [Paper](https://osf.io/preprints/socarxiv/kz4m8)
 
-"Issues, Endorsements, and Vote Choice: A Panel Study of Congressional Primary and General Elections" (with Jacqueline Colao, David Broockman, and Gregory Huber). *American Journal of Political Science* (Forthcoming). [Paper](https://osf.io/preprints/osf/7xbza)
+"Issues, Endorsements, and Vote Choice: A Panel Study of Congressional Primary and General Elections" (with Jacqueline Colao, David Broockman, and Gregory Huber). *American Journal of Political Science* (Forthcoming). [Paper](https://osf.io/preprints/osf/7xbza) \| [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TCEZEQ)
 
 "A Framework to Assess the Persuasion Risks Large Language Model Chatbots Pose to Democratic Societies" (with Zhongren Chen, Quan Le, Shinpei Nakamura-Sakai, Jasjeet Sekhon, and Ruixiao Wang). *Journal of Experimental Political Science* (2026). [Paper](https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/framework-to-assess-the-persuasion-risks-large-language-model-chatbots-pose-to-democratic-societies/AB0627A88FEBF023094B8A373F64ECA2) \| [Replication Data](https://doi.org/10.7910/DVN/TGKINF)
 
