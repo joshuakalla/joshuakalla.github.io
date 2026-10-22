@@ -15,7 +15,7 @@ author_profile: true
 
 ## Journal Articles
 
-"The Symbolic Politics of Housing" (with David Broockman and Christopher Elmendorf). *American Political Science Review* (Forthcoming). [Paper](https://osf.io/preprints/osf/surv9)
+"The Symbolic Politics of Housing" (with David Broockman and Christopher Elmendorf). *American Political Science Review* (Forthcoming). [Paper](https://doi.org/10.1017/S0003055426102019)
 
 "How Sociotropic Aesthetic Judgments Drive Opposition to Dense Housing Development" (with David Broockman and Christopher Elmendorf). *American Political Science Review* (Forthcoming). [Paper](https://osf.io/preprints/socarxiv/kz4m8)
 
