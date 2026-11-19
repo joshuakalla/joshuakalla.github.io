@@ -15,9 +15,9 @@ author_profile: true
 
 ## Journal Articles
 
-"The Symbolic Politics of Housing" (with David Broockman and Christopher Elmendorf). *American Political Science Review* (Forthcoming). [Paper](https://doi.org/10.1017/S0003055426102019)
+"The Symbolic Politics of Housing" (with David Broockman and Christopher Elmendorf). *American Political Science Review* (Forthcoming). [Paper](https://doi.org/10.1017/S0003055426102019) \| [Replication Data](https://doi.org/10.7910/DVN/WARHEN)
 
-"How Sociotropic Aesthetic Judgments Drive Opposition to Dense Housing Development" (with David Broockman and Christopher Elmendorf). *American Political Science Review* (Forthcoming). [Paper](https://osf.io/preprints/socarxiv/kz4m8)
+"How Sociotropic Aesthetic Judgments Drive Opposition to Dense Housing Development" (with David Broockman and Christopher Elmendorf). *American Political Science Review* (Forthcoming). [Paper](https://doi.org/10.1017/S0003055426102226) \| [Replication Data](https://doi.org/10.7910/DVN/YSFR1S)
 
 "Issues, Endorsements, and Vote Choice: A Panel Study of Congressional Primary and General Elections" (with Jacqueline Colao, David Broockman, and Gregory Huber). *American Journal of Political Science* (Forthcoming). [Paper](https://osf.io/preprints/osf/7xbza) \| [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TCEZEQ)
 
